@@ -23,6 +23,9 @@
   ],
   "dependencies": {
     "@wagmi/core": "^2.16.7",
+    "pino-pretty": "^13.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "viem": "^2.23.14",
     "wagmi": "^2.14.15"
   }
